@@ -2,9 +2,9 @@
 	"Name": "Tool Upgrade Bundles (CS)",
 	"Author": "Pixeltica",
 	"Description": "Replaces Blacksmith Tool Upgrades with Bundles",
-	"Version": "0.0.1",
+	"Version": "1.2.0",
 	"MinimumApiVersion": "4.0.0",
 	"EntryDll": "ToolUpgradeBundles.dll",
 	"UniqueID": "Pixeltica.SMAPI.Tool_Bundles",
-	"UpdateKeys": [ "Nexus:Other" ]
+	"UpdateKeys": [ "Nexus:42725" ]
 }
