@@ -20,7 +20,7 @@ namespace ToolUpgradeBundles
             //  Special Seasonal Vegetables
             customAnimations["Pixeltica/SpecialSeasonalVegetableBundleSlot"] = new AnimationData
             {
-                SourceAssetPath = "Tilesheets/objects_2",
+                SourceAssetPath = "Tilesheets/Objects_2",
                 BlankTemplatePath = "assets/animation_64x16.png",
                 Frames = new List<AnimationData.FrameData>
                 {

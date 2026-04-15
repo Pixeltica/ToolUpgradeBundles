@@ -1,14 +1,15 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-    <BaseOutputPath></BaseOutputPath>
-  </PropertyGroup>
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<BaseOutputPath></BaseOutputPath>
+		<PathMap>$(MSBuildProjectDirectory)=.</PathMap>
+	</PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="Pathoschild.Stardew.ModBuildConfig" Version="4.4.0" />
-  </ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="Pathoschild.Stardew.ModBuildConfig" Version="4.4.0" />
+	</ItemGroup>
 
 </Project>
